@@ -67,3 +67,7 @@ hero > p {
   border-radius: 4vh;
   font-weight: bold;
 }
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
